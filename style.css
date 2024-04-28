@@ -83,3 +83,20 @@ bottom: 0;
 transform: translateX(-50%);
 transition: bottom 1s, left 1s;
 }
+
+.img-box:hover .main-img{
+  left: 54%;
+}
+.social-links{
+  margin-left: 8%;
+  margin-top: 100px;
+}
+.social-links a{
+  font-size: 30px;
+  margin-right: 20px;
+  color: #212121;
+
+}
+.social-links a:hover{
+color: #ff4321;
+}
